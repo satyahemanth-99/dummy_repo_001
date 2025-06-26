@@ -1,2 +1,4 @@
 print("hello world")
 print("viyaan babu is good boy")
+print("mouni")
+print("bava")
